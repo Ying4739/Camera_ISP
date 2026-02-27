@@ -21,3 +21,7 @@ The script relies on a few standard Python libraries for computer vision and num
 
 ```bash
 pip install numpy opencv-python scipy
+```
+
+## 📄 References
+T. Akazawa, Y. Kinoshita, S. Shiota and H. Kiya, "N-White Balancing: White Balancing for Multiple Illuminants Including Non-Uniform Illumination," in IEEE Access, vol. 10, pp. 89051-89062, 2022, doi: 10.1109/ACCESS.2022.3200391.
